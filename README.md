@@ -3,9 +3,8 @@
 This repository contains the landing page for the Tech Support Chatbot, an AI-powered assistant designed to help users solve various programming challenges. The landing page showcases the features, pricing tiers, and allows users to join a waitlist for early access.
 
 See the Tech Support Chatbot here:
-> (Tech Support Chatbot GitHub repo) [https://github.com/Odushhh/tech-support-chatbot]
-
-> (Tech Support Chatbot LIVE) [https://techsupportchatbot.vercel.app/]
+> [GitHub repo w/ Tech Support Chatbot] (https://github.com/Odushhh/tech-support-chatbot)
+> [Tech Support Chatbot LIVE] (https://techsupportchatbot.vercel.app/)
 
 
 ## Technologies Used
